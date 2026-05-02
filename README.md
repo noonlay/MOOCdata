@@ -20,13 +20,13 @@ The original behavior logs include the following seven types of learning events:
 
 | Event | Description |
 |---|---|
-| `problem` | Working on course assignments or problems. |
-| `video` | Watching course videos. |
-| `access` | Accessing course objects other than videos and assignments. |
-| `wiki` | Accessing the course wiki. |
-| `discussion` | Accessing the course forum or discussion area. |
-| `navigate` | Navigating to another part of the course. |
-| `page_close` | Closing the course webpage. |
+| `Problem` | Working on course assignments. |
+| `Video` | Watching course videos. |
+| `Access` |Accessing other course objects except videos and assignments. |
+| `Wiki` | Accessing the course wiki. |
+| `Discussion` | Accessing the course forum. |
+| `Navigate` | Navigating to other part of the course. |
+| `Page_close` | Closing the web page. |
 
 ## Label Description
 
